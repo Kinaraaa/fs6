@@ -1,0 +1,3147 @@
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @AbbyCute
+Jika @AbbyCute Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoSupport
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 118, in start_command
+    InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url=client.invitelink),
+AttributeError: 'Bot' object has no attribute 'invitelink'
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @AbbyCute
+Jika @AbbyCute Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoSupport
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[ERROR] - pyrogram.dispatcher - [400 USER_IS_BLOCKED]: The user blocked you (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    if args is None:
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 175, in not_joined
+    await message.reply(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/types/messages_and_media/message.py", line 859, in reply_text
+    text: str,
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/messages/send_message.py", line 125, in send_message
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/advanced/send.py", line 77, in send
+    r = await self.session.send(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 426, in send
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 396, in _send
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserIsBlocked: [400 USER_IS_BLOCKED]: The user blocked you (caused by "messages.SendMessage")
+[ERROR] - pyrogram.dispatcher - Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 217, in handler_worker
+    if args is None:
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 54, in start_command
+    string = await decode(base64_string)
+  File "/root/filesharing6/helper_func.py", line 60, in decode
+    string_bytes = base64.urlsafe_b64decode(base64_bytes)
+  File "/usr/lib/python3.10/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.10/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (25) cannot be 1 more than a multiple of 4
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @AbbyCute
+Jika @AbbyCute Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoSupport
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink5'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 120, in start_command
+    InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url=client.invitelink5),
+AttributeError: 'Bot' object has no attribute 'invitelink5'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink5'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 120, in start_command
+    InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url=client.invitelink5),
+AttributeError: 'Bot' object has no attribute 'invitelink5'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink5'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/root/filesharing6/plugins/start.py", line 120, in start_command
+    InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url=client.invitelink5),
+AttributeError: 'Bot' object has no attribute 'invitelink5'
+[WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it (caused by "messages.GetChats")
+[WARNING] - bot - Bot tidak dapat Mengambil link Undangan dari FORCE_SUB_CHANNEL!
+[WARNING] - bot - Silakan periksa kembali var FORCE_SUB_CHANNEL dan Pastikan Bot anda Admin di Channel dengan izin link invite Pengguna melalui link undangan, Subs Channel Saat Ini: -1001527016233
+[INFO] - bot - 
+Bot Berhenti. Gabung Group https://t.me/GojoSupport untuk Bantuan
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @AbbyCute
+Jika @AbbyCute Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoSupport
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
+[CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/locks.py", line 214, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
